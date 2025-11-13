@@ -1,0 +1,15 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+tensorflow
+
+# Streamlit App
+streamlit
+pyarrow
+
+# Optional (for PCA visualization and scaling)
+plotly

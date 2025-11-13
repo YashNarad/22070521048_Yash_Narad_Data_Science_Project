@@ -1,0 +1,351 @@
+region,state,is_union_territory,month,quarter,energy_requirement_mu,energy_availability_mu,energy_deficit
+North,Chandigarh,True,Mar,Q1,101.6,101.6,0.0
+North,Delhi,True,Mar,Q1,2130.478,2130.279,0.199
+North,Haryana,False,Mar,Q1,3911.822,3909.16,2.662
+North,Himachal Pradesh,False,Mar,Q1,1025.63,1023.16,2.47
+North,Uts Of J&K And Ladakh,True,Mar,Q1,1725.61,1717.93,7.68
+North,Punjab,False,Mar,Q1,4275.01,4259.19,15.82
+North,Rajasthan,False,Mar,Q1,7541.57,7509.03,32.54
+North,Uttar Pradesh,False,Mar,Q1,9619.29,9613.89,5.4
+North,Uttarakhand,False,Mar,Q1,1161.761,1149.01,12.751
+Central,Chhattisgarh,False,Mar,Q1,3522.615219,3519.613719,3.0015
+West,Gujarat,False,Mar,Q1,11336.89609,11336.89609,0.0
+Central,Madhya Pradesh,False,Mar,Q1,7524.602891,7496.421383,28.18150782
+West,Maharashtra,False,Mar,Q1,17010.05555,17009.96633,0.08922
+West,Dadra & Nagar Haveli And Daman & Diu,True,Mar,Q1,791.7707,791.7707,0.0
+West,Goa,False,Mar,Q1,405.46282,405.46282,0.0
+South,Andhra Pradesh,False,Mar,Q1,6711.89014,6711.89014,0.0
+South,Telangana,False,Mar,Q1,8909.39502,8909.39502,0.0
+South,Karnataka,False,Mar,Q1,8602.621995,8602.621995,0.0
+South,Kerala,False,Mar,Q1,2713.099073,2713.099073,0.0
+South,Tamil Nadu,False,Mar,Q1,10799.8363,10799.8363,0.0
+South,Puducherry,True,Mar,Q1,263.8251642,263.8251642,0.0
+South,Lakshadweep,True,Mar,Q1,6.01565,6.01565,0.0
+East,Bihar,False,Mar,Q1,2882.105319,2863.953819,18.1515
+East,Jharkhand,False,Mar,Q1,1106.484301,1034.630301,71.854
+East,Odisha,False,Mar,Q1,3441.362624,3441.362624,0.0
+East,West Bengal,False,Mar,Q1,4982.247482,4977.483482,4.764
+Northeast,Sikkim,False,Mar,Q1,50.49075133,50.49075133,0.0
+South,Andaman Nicobar,True,Mar,Q1,31.82,31.37,0.45
+Northeast,Arunachal Pradesh,False,Mar,Q1,86.89744396,83.19240168,3.705042279
+Northeast,Assam,False,Mar,Q1,843.6235207,843.6235207,0.0
+Northeast,Manipur,False,Mar,Q1,83.4281472,83.4281472,0.0
+Northeast,Meghalaya,False,Mar,Q1,190.6429139,190.6429139,0.0
+Northeast,Mizoram,False,Mar,Q1,51.8784832,51.8784832,0.0
+Northeast,Nagaland,False,Mar,Q1,75.36476404,70.3558708,5.008893239
+Northeast,Tripura,False,Mar,Q1,121.0487895,121.0487895,0.0
+North,Chandigarh,True,Apr,Q2,121.0,121.0,0.0
+North,Delhi,True,Apr,Q2,2569.0,2569.0,0.0
+North,Haryana,False,Apr,Q2,4197.0,4166.0,31.0
+North,Himachal Pradesh,False,Apr,Q2,967.0,963.0,4.0
+North,Uts Of J&K And Ladakh,True,Apr,Q2,1695.0,1675.0,20.0
+North,Punjab,False,Apr,Q2,4197.0,4192.0,5.0
+North,Rajasthan,False,Apr,Q2,7396.0,7354.0,42.0
+North,Uttar Pradesh,False,Apr,Q2,11130.0,11113.0,17.0
+North,Uttarakhand,False,Apr,Q2,1208.0,1193.0,15.0
+Central,Chhattisgarh,False,Apr,Q2,3480.0,3473.0,7.0
+West,Gujarat,False,Apr,Q2,13594.0,13594.0,0.0
+Central,Madhya Pradesh,False,Apr,Q2,7577.0,7577.0,0.0
+West,Maharashtra,False,Apr,Q2,17458.0,17455.0,3.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Apr,Q2,792.0,792.0,0.0
+West,Goa,False,Apr,Q2,424.0,424.0,0.0
+South,Andhra Pradesh,False,Apr,Q2,6940.0,6938.0,2.0
+South,Telangana,False,Apr,Q2,7331.0,7329.0,2.0
+South,Karnataka,False,Apr,Q2,8604.0,8602.0,2.0
+South,Kerala,False,Apr,Q2,2765.0,2764.0,1.0
+South,Tamil Nadu,False,Apr,Q2,11228.0,11226.0,2.0
+South,Puducherry,True,Apr,Q2,279.0,279.0,0.0
+South,Lakshadweep,True,Apr,Q2,6.0,6.0,0.0
+East,Bihar,False,Apr,Q2,3416.0,3380.0,36.0
+East,Jharkhand,False,Apr,Q2,1208.0,1139.0,69.0
+East,Odisha,False,Apr,Q2,3468.0,3466.0,2.0
+East,West Bengal,False,Apr,Q2,5910.0,5901.0,9.0
+Northeast,Sikkim,False,Apr,Q2,44.0,44.0,0.0
+South,Andaman Nicobar,True,Apr,Q2,33.0,33.0,0.0
+Northeast,Arunachal Pradesh,False,Apr,Q2,72.0,72.0,0.0
+Northeast,Assam,False,Apr,Q2,911.0,909.0,2.0
+Northeast,Manipur,False,Apr,Q2,78.0,78.0,0.0
+Northeast,Meghalaya,False,Apr,Q2,187.0,147.0,40.0
+Northeast,Mizoram,False,Apr,Q2,56.0,56.0,0.0
+Northeast,Nagaland,False,Apr,Q2,68.0,68.0,0.0
+Northeast,Tripura,False,Apr,Q2,144.0,144.0,0.0
+North,Chandigarh,True,May,Q2,157.0,157.0,0.0
+North,Delhi,True,May,Q2,3119.0,3119.0,0.0
+North,Haryana,False,May,Q2,5079.0,5064.0,15.0
+North,Himachal Pradesh,False,May,Q2,921.0,918.0,3.0
+North,Uts Of J&K And Ladakh,True,May,Q2,1726.0,1714.0,12.0
+North,Punjab,False,May,Q2,5220.0,5220.0,0.0
+North,Rajasthan,False,May,Q2,8271.0,8209.0,62.0
+North,Uttar Pradesh,False,May,Q2,13284.0,13246.0,38.0
+North,Uttarakhand,False,May,Q2,1335.0,1331.0,4.0
+Central,Chhattisgarh,False,May,Q2,3637.0,3637.0,0.0
+West,Gujarat,False,May,Q2,13824.0,13824.0,0.0
+Central,Madhya Pradesh,False,May,Q2,7659.0,7659.0,0.0
+West,Maharashtra,False,May,Q2,17719.0,17705.0,14.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,May,Q2,792.0,792.0,0.0
+West,Goa,False,May,Q2,415.0,415.0,0.0
+South,Andhra Pradesh,False,May,Q2,6872.0,6861.0,11.0
+South,Telangana,False,May,Q2,5572.0,5570.0,2.0
+South,Karnataka,False,May,Q2,7519.0,7518.0,1.0
+South,Kerala,False,May,Q2,2851.0,2851.0,0.0
+South,Tamil Nadu,False,May,Q2,10812.0,10810.0,2.0
+South,Puducherry,True,May,Q2,315.0,315.0,0.0
+South,Lakshadweep,True,May,Q2,6.0,6.0,0.0
+East,Bihar,False,May,Q2,3784.0,3724.0,60.0
+East,Jharkhand,False,May,Q2,1304.0,1242.0,62.0
+East,Odisha,False,May,Q2,3788.0,3788.0,0.0
+East,West Bengal,False,May,Q2,6027.0,6014.0,13.0
+Northeast,Sikkim,False,May,Q2,44.0,44.0,0.0
+South,Andaman Nicobar,True,May,Q2,34.0,33.0,1.0
+Northeast,Arunachal Pradesh,False,May,Q2,76.0,76.0,0.0
+Northeast,Assam,False,May,Q2,1033.0,1030.0,3.0
+Northeast,Manipur,False,May,Q2,73.0,73.0,0.0
+Northeast,Meghalaya,False,May,Q2,195.0,156.0,39.0
+Northeast,Mizoram,False,May,Q2,52.0,52.0,0.0
+Northeast,Nagaland,False,May,Q2,74.0,74.0,0.0
+Northeast,Tripura,False,May,Q2,163.0,163.0,0.0
+North,Chandigarh,True,Jun,Q2,185.52,185.52,0.0
+North,Delhi,True,Jun,Q2,3672.313963,3671.805,0.5089625
+North,Haryana,False,Jun,Q2,6126.142018,6104.533018,21.609
+North,Himachal Pradesh,False,Jun,Q2,1027.67,1025.3,2.37
+North,Uts Of J&K And Ladakh,True,Jun,Q2,1556.744,1531.094,25.65
+North,Punjab,False,Jun,Q2,7018.662451,7018.662451,0.0
+North,Rajasthan,False,Jun,Q2,8141.411,8138.193,3.218
+North,Uttar Pradesh,False,Jun,Q2,15146.62005,15139.75159,6.868458705
+North,Uttarakhand,False,Jun,Q2,1483.4478,1479.1378,4.31
+Central,Chhattisgarh,False,Jun,Q2,3372.051534,3370.864284,1.18725
+West,Gujarat,False,Jun,Q2,12392.22354,12392.22354,0.0
+Central,Madhya Pradesh,False,Jun,Q2,7442.59197,7442.59197,0.0
+West,Maharashtra,False,Jun,Q2,18028.5938,18005.0638,23.53
+West,Dadra & Nagar Haveli And Daman & Diu,True,Jun,Q2,791.7707,791.7707,0.0
+West,Goa,False,Jun,Q2,398.88684,398.88684,0.0
+South,Andhra Pradesh,False,Jun,Q2,7118.646327,7118.646327,0.0
+South,Telangana,False,Jun,Q2,6001.116975,6001.116975,0.0
+South,Karnataka,False,Jun,Q2,7351.925685,7351.925685,0.0
+South,Kerala,False,Jun,Q2,2443.357794,2443.357794,0.0
+South,Tamil Nadu,False,Jun,Q2,10868.27907,10868.27907,0.0
+South,Puducherry,True,Jun,Q2,310.7218473,310.7218473,0.0
+South,Lakshadweep,True,Jun,Q2,5.2601,5.2601,0.0
+East,Bihar,False,Jun,Q2,4172.539916,4087.439436,85.10047917
+East,Jharkhand,False,Jun,Q2,1288.494078,1269.597953,18.896125
+East,Odisha,False,Jun,Q2,3833.572182,3833.572182,0.0
+East,West Bengal,False,Jun,Q2,6380.887144,6366.76187,14.12527416
+Northeast,Sikkim,False,Jun,Q2,40.98104022,40.98104022,0.0
+South,Andaman Nicobar,True,Jun,Q2,30.83,29.59,1.24
+Northeast,Arunachal Pradesh,False,Jun,Q2,75.82232726,75.82232726,0.0
+Northeast,Assam,False,Jun,Q2,1141.379326,1139.161074,2.218251678
+Northeast,Manipur,False,Jun,Q2,70.81923218,70.81923218,0.0
+Northeast,Meghalaya,False,Jun,Q2,179.9643456,145.658043,34.30630259
+Northeast,Mizoram,False,Jun,Q2,51.2211284,51.2211284,0.0
+Northeast,Nagaland,False,Jun,Q2,80.91824379,80.91824379,0.0
+Northeast,Tripura,False,Jun,Q2,134.1430705,134.1430705,0.0
+North,Chandigarh,True,Jul,Q3,189.0,189.0,0.0
+North,Delhi,True,Jul,Q3,3942.0,3942.0,0.0
+North,Haryana,False,Jul,Q3,6713.0,6708.0,5.0
+North,Himachal Pradesh,False,Jul,Q3,1078.0,1075.0,3.0
+North,Uts Of J&K And Ladakh,True,Jul,Q3,1539.0,1523.0,16.0
+North,Punjab,False,Jul,Q3,8242.0,8242.0,0.0
+North,Rajasthan,False,Jul,Q3,8367.0,8343.0,24.0
+North,Uttar Pradesh,False,Jul,Q3,15330.0,15307.0,23.0
+North,Uttarakhand,False,Jul,Q3,1357.0,1342.0,15.0
+Central,Chhattisgarh,False,Jul,Q3,3360.0,3355.0,5.0
+West,Gujarat,False,Jul,Q3,11889.0,11889.0,0.0
+Central,Madhya Pradesh,False,Jul,Q3,10980.0,10980.0,0.0
+West,Maharashtra,False,Jul,Q3,16399.0,16395.0,4.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Jul,Q3,792.0,792.0,0.0
+West,Goa,False,Jul,Q3,392.0,392.0,0.0
+South,Andhra Pradesh,False,Jul,Q3,6345.0,6345.0,0.0
+South,Telangana,False,Jul,Q3,6390.0,6390.0,0.0
+South,Karnataka,False,Jul,Q3,6170.0,6170.0,0.0
+South,Kerala,False,Jul,Q3,2306.0,2306.0,0.0
+South,Tamil Nadu,False,Jul,Q3,10699.0,10699.0,0.0
+South,Puducherry,True,Jul,Q3,303.0,303.0,0.0
+South,Lakshadweep,True,Jul,Q3,5.0,5.0,0.0
+East,Bihar,False,Jul,Q3,4414.0,4354.0,60.0
+East,Jharkhand,False,Jul,Q3,1282.0,1270.0,12.0
+East,Odisha,False,Jul,Q3,3848.0,3848.0,0.0
+East,West Bengal,False,Jul,Q3,6820.0,6815.0,5.0
+Northeast,Sikkim,False,Jul,Q3,38.0,38.0,0.0
+South,Andaman Nicobar,True,Jul,Q3,30.0,29.0,1.0
+Northeast,Arunachal Pradesh,False,Jul,Q3,83.0,83.0,0.0
+Northeast,Assam,False,Jul,Q3,1320.0,1320.0,0.0
+Northeast,Manipur,False,Jul,Q3,82.0,82.0,0.0
+Northeast,Meghalaya,False,Jul,Q3,188.0,165.0,23.0
+Northeast,Mizoram,False,Jul,Q3,56.0,56.0,0.0
+Northeast,Nagaland,False,Jul,Q3,88.0,88.0,0.0
+Northeast,Tripura,False,Jul,Q3,152.0,152.0,0.0
+North,Chandigarh,True,Aug,Q3,213.0,213.0,0.0
+North,Delhi,True,Aug,Q3,4104.0,4103.0,1.0
+North,Haryana,False,Aug,Q3,7658.0,7569.0,89.0
+North,Himachal Pradesh,False,Aug,Q3,1149.0,1146.0,3.0
+North,Uts Of J&K And Ladakh,True,Aug,Q3,1606.0,1585.0,21.0
+North,Punjab,False,Aug,Q3,9560.0,9560.0,0.0
+North,Rajasthan,False,Aug,Q3,10349.0,10154.0,195.0
+North,Uttar Pradesh,False,Aug,Q3,15781.0,15669.0,112.0
+North,Uttarakhand,False,Aug,Q3,1404.0,1385.0,19.0
+Central,Chhattisgarh,False,Aug,Q3,3535.0,3515.0,20.0
+West,Gujarat,False,Aug,Q3,12556.0,12554.0,2.0
+Central,Madhya Pradesh,False,Aug,Q3,8269.0,8269.0,0.0
+West,Maharashtra,False,Aug,Q3,16972.0,16865.0,107.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Aug,Q3,792.0,792.0,0.0
+West,Goa,False,Aug,Q3,418.0,418.0,0.0
+South,Andhra Pradesh,False,Aug,Q3,7200.0,7161.0,39.0
+South,Telangana,False,Aug,Q3,7689.0,7688.0,1.0
+South,Karnataka,False,Aug,Q3,7909.0,7839.0,70.0
+South,Kerala,False,Aug,Q3,2591.0,2590.0,1.0
+South,Tamil Nadu,False,Aug,Q3,11104.0,11103.0,1.0
+South,Puducherry,True,Aug,Q3,310.0,310.0,0.0
+South,Lakshadweep,True,Aug,Q3,5.0,5.0,0.0
+East,Bihar,False,Aug,Q3,4298.0,4237.0,61.0
+East,Jharkhand,False,Aug,Q3,1305.0,1252.0,53.0
+East,Odisha,False,Aug,Q3,3705.0,3703.0,2.0
+East,West Bengal,False,Aug,Q3,6612.0,6604.0,8.0
+Northeast,Sikkim,False,Aug,Q3,35.0,35.0,0.0
+South,Andaman Nicobar,True,Aug,Q3,33.0,31.0,2.0
+Northeast,Arunachal Pradesh,False,Aug,Q3,83.0,83.0,0.0
+Northeast,Assam,False,Aug,Q3,1345.0,1313.0,32.0
+Northeast,Manipur,False,Aug,Q3,81.0,81.0,0.0
+Northeast,Meghalaya,False,Aug,Q3,182.0,167.0,15.0
+Northeast,Mizoram,False,Aug,Q3,53.0,53.0,0.0
+Northeast,Nagaland,False,Aug,Q3,89.0,89.0,0.0
+Northeast,Tripura,False,Aug,Q3,168.0,168.0,0.0
+North,Chandigarh,True,Sep,Q3,194.0,194.0,0.0
+North,Delhi,True,Sep,Q3,3743.0,3743.0,0.0
+North,Haryana,False,Sep,Q3,6808.0,6752.0,56.0
+North,Himachal Pradesh,False,Sep,Q3,1158.0,1156.0,2.0
+North,Uts Of J&K And Ladakh,True,Sep,Q3,1521.0,1476.0,45.0
+North,Punjab,False,Sep,Q3,8006.0,8006.0,0.0
+North,Rajasthan,False,Sep,Q3,9398.0,9283.0,115.0
+North,Uttar Pradesh,False,Sep,Q3,14669.0,14656.0,13.0
+North,Uttarakhand,False,Sep,Q3,1392.0,1381.0,11.0
+Central,Chhattisgarh,False,Sep,Q3,3408.0,3397.0,11.0
+West,Gujarat,False,Sep,Q3,12931.0,12907.0,24.0
+Central,Madhya Pradesh,False,Sep,Q3,7699.0,7664.0,35.0
+West,Maharashtra,False,Sep,Q3,15841.0,15819.0,22.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Sep,Q3,792.0,792.0,0.0
+West,Goa,False,Sep,Q3,412.0,412.0,0.0
+South,Andhra Pradesh,False,Sep,Q3,6559.0,6559.0,0.0
+South,Telangana,False,Sep,Q3,6725.0,6725.0,0.0
+South,Karnataka,False,Sep,Q3,7008.0,7002.0,6.0
+South,Kerala,False,Sep,Q3,2363.0,2363.0,0.0
+South,Tamil Nadu,False,Sep,Q3,10245.0,10245.0,0.0
+South,Puducherry,True,Sep,Q3,291.0,291.0,0.0
+South,Lakshadweep,True,Sep,Q3,5.0,5.0,0.0
+East,Bihar,False,Sep,Q3,4262.0,4167.0,95.0
+East,Jharkhand,False,Sep,Q3,1232.0,1190.0,42.0
+East,Odisha,False,Sep,Q3,3635.0,3634.0,1.0
+East,West Bengal,False,Sep,Q3,6453.0,6446.0,7.0
+Northeast,Sikkim,False,Sep,Q3,38.0,38.0,0.0
+South,Andaman Nicobar,True,Sep,Q3,29.0,28.0,1.0
+Northeast,Arunachal Pradesh,False,Sep,Q3,89.0,89.0,0.0
+Northeast,Assam,False,Sep,Q3,1368.0,1333.0,35.0
+Northeast,Manipur,False,Sep,Q3,79.0,79.0,0.0
+Northeast,Meghalaya,False,Sep,Q3,165.0,157.0,8.0
+Northeast,Mizoram,False,Sep,Q3,49.0,49.0,0.0
+Northeast,Nagaland,False,Sep,Q3,86.0,86.0,0.0
+Northeast,Tripura,False,Sep,Q3,173.0,173.0,0.0
+North,Chandigarh,True,Oct,Q4,127.0,127.0,0.0
+North,Delhi,True,Oct,Q4,2860.0,2859.0,1.0
+North,Haryana,False,Oct,Q4,5356.0,5324.0,32.0
+North,Himachal Pradesh,False,Oct,Q4,1156.0,1152.0,4.0
+North,Uts Of J&K And Ladakh,True,Oct,Q4,1540.0,1504.0,36.0
+North,Punjab,False,Oct,Q4,5259.0,5259.0,0.0
+North,Rajasthan,False,Oct,Q4,9166.0,9110.0,56.0
+North,Uttar Pradesh,False,Oct,Q4,12240.0,12231.0,9.0
+North,Uttarakhand,False,Oct,Q4,1239.0,1230.0,9.0
+Central,Chhattisgarh,False,Oct,Q4,3364.0,3355.0,9.0
+West,Gujarat,False,Oct,Q4,13094.0,13094.0,0.0
+Central,Madhya Pradesh,False,Oct,Q4,9011.0,9011.0,0.0
+West,Maharashtra,False,Oct,Q4,18056.0,18051.0,5.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Oct,Q4,897.0,897.0,0.0
+West,Goa,False,Oct,Q4,374.0,374.0,0.0
+South,Andhra Pradesh,False,Oct,Q4,7284.0,7281.0,3.0
+South,Telangana,False,Oct,Q4,8168.0,8166.0,2.0
+South,Karnataka,False,Oct,Q4,7777.0,7706.0,71.0
+South,Kerala,False,Oct,Q4,2471.0,2470.0,1.0
+South,Tamil Nadu,False,Oct,Q4,10712.0,10709.0,3.0
+South,Puducherry,True,Oct,Q4,305.0,305.0,0.0
+South,Lakshadweep,True,Oct,Q4,5.0,5.0,0.0
+East,Bihar,False,Oct,Q4,3466.0,3383.0,83.0
+East,Jharkhand,False,Oct,Q4,1196.0,1156.0,40.0
+East,Odisha,False,Oct,Q4,3693.0,3683.0,10.0
+East,West Bengal,False,Oct,Q4,5980.0,5973.0,7.0
+Northeast,Sikkim,False,Oct,Q4,31.0,31.0,0.0
+South,Andaman Nicobar,True,Oct,Q4,32.0,31.0,1.0
+Northeast,Arunachal Pradesh,False,Oct,Q4,92.0,92.0,0.0
+Northeast,Assam,False,Oct,Q4,1097.0,1093.0,4.0
+Northeast,Manipur,False,Oct,Q4,82.0,82.0,0.0
+Northeast,Meghalaya,False,Oct,Q4,180.0,176.0,4.0
+Northeast,Mizoram,False,Oct,Q4,53.0,53.0,0.0
+Northeast,Nagaland,False,Oct,Q4,82.0,82.0,0.0
+Northeast,Tripura,False,Oct,Q4,161.0,161.0,0.0
+North,Chandigarh,True,Nov,Q4,102.0,102.0,0.0
+North,Delhi,True,Nov,Q4,2117.0,2117.0,0.0
+North,Haryana,False,Nov,Q4,3915.0,3915.0,0.0
+North,Himachal Pradesh,False,Nov,Q4,989.0,986.0,3.0
+North,Uts Of J&K And Ladakh,True,Nov,Q4,1586.0,1568.0,18.0
+North,Punjab,False,Nov,Q4,3842.0,3842.0,0.0
+North,Rajasthan,False,Nov,Q4,8760.0,8759.0,1.0
+North,Uttar Pradesh,False,Nov,Q4,9616.0,9580.0,36.0
+North,Uttarakhand,False,Nov,Q4,1102.0,1099.0,3.0
+Central,Chhattisgarh,False,Nov,Q4,2709.0,2709.0,0.0
+West,Gujarat,False,Nov,Q4,10857.0,10857.0,0.0
+Central,Madhya Pradesh,False,Nov,Q4,9007.0,9007.0,0.0
+West,Maharashtra,False,Nov,Q4,16754.0,16754.0,0.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Nov,Q4,800.0,800.0,0.0
+West,Goa,False,Nov,Q4,421.0,421.0,0.0
+South,Andhra Pradesh,False,Nov,Q4,6314.0,6314.0,0.0
+South,Telangana,False,Nov,Q4,6147.0,6147.0,0.0
+South,Karnataka,False,Nov,Q4,7037.0,7037.0,0.0
+South,Kerala,False,Nov,Q4,2421.0,2420.0,1.0
+South,Tamil Nadu,False,Nov,Q4,8829.0,8829.0,0.0
+South,Puducherry,True,Nov,Q4,255.0,255.0,0.0
+South,Lakshadweep,True,Nov,Q4,5.0,5.0,0.0
+East,Bihar,False,Nov,Q4,2549.0,2538.0,11.0
+East,Jharkhand,False,Nov,Q4,1089.0,1061.0,28.0
+East,Odisha,False,Nov,Q4,3019.0,3014.0,5.0
+East,West Bengal,False,Nov,Q4,4753.0,4747.0,6.0
+Northeast,Sikkim,False,Nov,Q4,41.0,40.0,1.0
+South,Andaman Nicobar,True,Nov,Q4,33.0,31.0,2.0
+Northeast,Arunachal Pradesh,False,Nov,Q4,82.0,82.0,0.0
+Northeast,Assam,False,Nov,Q4,851.0,851.0,0.0
+Northeast,Manipur,False,Nov,Q4,80.0,80.0,0.0
+Northeast,Meghalaya,False,Nov,Q4,186.0,186.0,0.0
+Northeast,Mizoram,False,Nov,Q4,58.0,58.0,0.0
+Northeast,Nagaland,False,Nov,Q4,69.0,69.0,0.0
+Northeast,Tripura,False,Nov,Q4,123.0,123.0,0.0
+North,Chandigarh,True,Dec,Q4,117.0,117.0,0.0
+North,Delhi,True,Dec,Q4,2229.0,2229.0,0.0
+North,Haryana,False,Dec,Q4,4489.0,4489.0,0.0
+North,Himachal Pradesh,False,Dec,Q4,1154.0,1152.0,2.0
+North,Uts Of J&K And Ladakh,True,Dec,Q4,1822.0,1809.0,13.0
+North,Punjab,False,Dec,Q4,4291.0,4291.0,0.0
+North,Rajasthan,False,Dec,Q4,9331.0,9327.0,4.0
+North,Uttar Pradesh,False,Dec,Q4,9839.0,9839.0,0.0
+North,Uttarakhand,False,Dec,Q4,1267.0,1263.0,4.0
+Central,Chhattisgarh,False,Dec,Q4,2799.0,2799.0,0.0
+West,Gujarat,False,Dec,Q4,11718.0,11717.0,1.0
+Central,Madhya Pradesh,False,Dec,Q4,8968.0,8968.0,0.0
+West,Maharashtra,False,Dec,Q4,16236.0,16236.0,0.0
+West,Dadra & Nagar Haveli And Daman & Diu,True,Dec,Q4,881.0,881.0,0.0
+West,Goa,False,Dec,Q4,424.0,424.0,0.0
+South,Andhra Pradesh,False,Dec,Q4,5780.0,5779.0,1.0
+South,Telangana,False,Dec,Q4,6435.0,6433.0,2.0
+South,Karnataka,False,Dec,Q4,7742.0,7740.0,2.0
+South,Kerala,False,Dec,Q4,2552.0,2551.0,1.0
+South,Tamil Nadu,False,Dec,Q4,9353.0,9352.0,1.0
+South,Puducherry,True,Dec,Q4,263.0,263.0,0.0
+South,Lakshadweep,True,Dec,Q4,5.0,5.0,0.0
+East,Bihar,False,Dec,Q4,2613.0,2596.0,17.0
+East,Jharkhand,False,Dec,Q4,1379.0,1305.0,74.0
+East,Odisha,False,Dec,Q4,2574.0,2572.0,2.0
+East,West Bengal,False,Dec,Q4,4483.0,4479.0,4.0
+Northeast,Sikkim,False,Dec,Q4,54.0,54.0,0.0
+South,Andaman Nicobar,True,Dec,Q4,32.0,31.0,1.0
+Northeast,Arunachal Pradesh,False,Dec,Q4,94.0,94.0,0.0
+Northeast,Assam,False,Dec,Q4,818.0,818.0,0.0
+Northeast,Manipur,False,Dec,Q4,98.0,96.0,2.0
+Northeast,Meghalaya,False,Dec,Q4,199.0,197.0,2.0
+Northeast,Mizoram,False,Dec,Q4,62.0,62.0,0.0
+Northeast,Nagaland,False,Dec,Q4,74.0,74.0,0.0
+Northeast,Tripura,False,Dec,Q4,116.0,116.0,0.0
