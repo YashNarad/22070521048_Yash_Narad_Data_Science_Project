@@ -28,7 +28,7 @@ It includes **Exploratory Data Analysis (EDA)**, **seasonality insights**, and s
 ## 🌐 Live Demo
 
 🚀 **Try the app here:**  
-👉 [Energy Analysis App](https://data-science-and-machine-learning-project-wg4ecb9cgbu8hejfmbdq.streamlit.app/)
+👉 [Energy Analysis App](https://22070521048yashnaraddatascienceproject.streamlit.app/)
 
 ---
 
