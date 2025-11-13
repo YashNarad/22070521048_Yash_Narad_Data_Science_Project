@@ -193,7 +193,6 @@ if page == "📘 Dataset Description":
     st.dataframe(df.head())
 
     st.subheader("Dataset info & column descriptions")
-    st.write(f"Rows: {df.shape[0]}   |   Columns: {df.shape[1]}")
     st.markdown("""
     **Columns**
     - **region** — geographical region (e.g., North, South). Useful for regional analysis.
@@ -573,6 +572,7 @@ elif page == "🔮 Prediction":
             st.success(f"Predicted Energy Surplus for {state_in} ({quarter_in}): {abs(pred_val):.2f} MU")
 
         
+
 
 
 
